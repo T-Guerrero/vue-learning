@@ -1,4 +1,8 @@
-# daily-tasks
+# daily Tasks
+
+A tasks manager that uses Vue, Vuex and Vuetify.
+
+Made with vue-cli.
 
 ## Project setup
 ```
