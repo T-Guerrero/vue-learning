@@ -1,5 +1,8 @@
-# storepage-cli
+# StorePage
 
+The basic vue example project provided by vue documentation itself, but implemented using vue-cli.
+
+(https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
 ## Project setup
 ```
 yarn install
