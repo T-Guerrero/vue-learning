@@ -1,4 +1,4 @@
-# daily Tasks
+# Daily Tasks
 
 A tasks manager that uses Vue, Vuex and Vuetify.
 
